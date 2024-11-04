@@ -1,7 +1,7 @@
 # England_Schools_2024
-Analysis of England schools data, focus on A-levels
+Analysis of England schools data, focus on A-levels. 
 
-
+This analysis was started in October 2024, motivated by my desire to understand how good the various schools near us are that my daughter is thinking of applying to for A-levels. 
 
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
